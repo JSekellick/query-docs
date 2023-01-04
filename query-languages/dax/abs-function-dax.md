@@ -30,7 +30,7 @@ ABS(<number>)
   
 ## Return value
 
-A decimal number.  
+A scalar value.  
   
 ## Remarks
 
